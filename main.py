@@ -2,11 +2,11 @@
 """The Poster for a Place That Isn't There — THISTLEDOWN.
 
 Deterministic PIL travel poster (1024x1024 PNG) for an invented alpine
-village above a sea of clouds: snow peaks, a green knoll of chalets, a
-suspension bridge to a rocky lookout, and a thistle meadow in the
-foreground. The only text in the picture is the place name, set in the
-deep-green band at the foot.
-No network; fixed-seed pseudo-random detail only.
+village above a sea of clouds: snow peaks under a morning sun, a green
+knoll of chalets and a chapel, a suspension bridge with a cable car to a
+rocky lookout, and a thistle meadow in the foreground. The only text in
+the picture is the place name, set in the deep-green band at the foot.
+No network; fixed-seed pseudo-random detail only (clouds, flowers, grain).
 """
 import os
 import random
